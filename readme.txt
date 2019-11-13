@@ -1,2 +1,6 @@
-This template was made by Colorlib (https://colorlib.com)
-Please visit our website for more awesome templates, themes and tools. 
+app.py ---> Flask App
+templates ---> index html page
+static ---> css, js, images
+env ---> virtualenv
+
+
